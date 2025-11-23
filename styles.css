@@ -1,0 +1,11 @@
+/* (14) Include a CSS Page connected to the HTML page */
+
+/* (15) Unique background color */
+body {
+    background-color: rgb(108, 216, 255);
+}
+
+/* (16) Change the font color of one element from CSS page */
+div {
+    color: rgb(115, 46, 255)
+}
